@@ -1,5 +1,7 @@
 # SUPERHOT VR Spectator Camera
 
+A mod to increase field of view and smoothness of the display camera.
+
 ![Bannner](https://i.imgur.com/K5YYvbm.png "Banner")
 
 ## Installation
