@@ -8,7 +8,7 @@ using UnityEngine;
 [assembly: AssemblyVersion(SpectatorCameraMod.VERSION)]
 [assembly: AssemblyFileVersion(SpectatorCameraMod.VERSION)]
 [assembly: MelonGame("SUPERHOT_Team", "SUPERHOT_VR")]
-[assembly: MelonInfo(typeof(SpectatorCameraMod), "Spectator Camera", SpectatorCameraMod.VERSION, "octo")]
+[assembly: MelonInfo(typeof(SpectatorCameraMod), "Spectator Camera", SpectatorCameraMod.VERSION, "octo", "https://github.com/octoberU/SuperHotVRSpectatorCamera")]
 
 public class SpectatorCameraMod : MelonMod
 {
